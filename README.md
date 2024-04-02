@@ -1,3 +1,5 @@
+![Swift Logo](/downloads/swift_logo)
+
 ## Technologies Used
 
 ### Frontend
