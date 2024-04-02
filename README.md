@@ -1,4 +1,4 @@
-![Swift Logo](/downloads/swift_logo)
+![Swift Logo](/downloads/swift_logo.png)
 
 ## Technologies Used
 
